@@ -1,6 +1,6 @@
-## A2 Group 58 - Assignment 3
+# A2 Group 58 - Assignment 3
 
-### Project Idea
+# Project Idea
 
 
 ### Topic
@@ -18,7 +18,7 @@ Researching we have found that there are some VR events companies are available 
 
 
 
-## Project Plans and Progress
+# Project Plans and Progress
 
 Our plans started after we received some poor feedback for our assignment 2 project idea. We were told that we lacked proper scoping, analysis and testing of the idea, meaning that we did not pick up on some serious flaws with the project idea from top to bottom. We knew that if we were to succeed for Assignment 3 we needed to go back to the drawing board as a group. 
 
@@ -77,7 +77,7 @@ We followed the following project steps to achieve completing our assignment on 
 
 
 
-## Scope and Limits
+# Scope and Limits
 The scope of our project is limited to planning only and no working examples will be available as unfortunately the majority of our group members are early in their learning for this course and lack the skills to display progress in coding. Our project scope is to provide;
 
 A fully detailed table detailing all latest technologies, tools and skills required to execute and complete our AR/VR.
