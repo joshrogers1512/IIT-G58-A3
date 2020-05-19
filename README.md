@@ -3,18 +3,35 @@
 ### Project Idea
 
 
-Topic
+### Topic
 Our team intends to investigate the project scope of establishing a virtual and augmented events company targeting disabled persons that cannot attend a particular function due to their disability.
 
 The outcomes of this project would be to provide our team with an understanding of the technologies and tools required to establish such an organisation and gain an understanding of what current products are available in the marketplace.
 
-Motivation 
+### Motivation 
 VR a AR are two of the leading technologies currently underdevelopment in our modern world. Gaining an insight into this is motivating for all our team members as we can bolster our knowledge of current trends, tools and technologies. The project shows that we are not afraid to step into the unknown and cutting edge technologies.
 
 We are also focusing our project towards assisting those with disabilities to bridge the gap in specific experiences that they cannot have compared to an abled body person.
 
-Landscape
+### Landscape
 Researching we have found that there are some VR events companies are available in industries such as arts and sport but none specifically enabling the disabled to attend and interact at events. We have identified this as an area of weakness within the AR/VR Live Events field, and believe its a potential area that can benefit society and better individuals lives.
+
+
+
+
+
+
+
+
+
+
+## Scope and Limits
+The scope of our project is limited to planning only and no working examples will be available as unfortunately the majority of our group members are early in their learning for this course and lack the skills to display progress in coding. Our project scope is to provide;
+
+A fully detailed table detailing all latest technologies, tools and skills required to execute and complete our AR/VR.
+Flow diagram of generalised functionality
+A fully detailed timing timeline with all aspects of the AR/VR project considered.
+
 
 
 
