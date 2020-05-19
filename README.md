@@ -82,7 +82,7 @@ We followed the following project steps to achieve completing our assignment on 
 
 
 
-## Scope and Limits
+**## Scope and Limits**
 The scope of our project is limited to planning only and no working examples will be available as unfortunately the majority of our group members are early in their learning for this course and lack the skills to display progress in coding. Our project scope is to provide;
 
 A fully detailed table detailing all latest technologies, tools and skills required to execute and complete our AR/VR.
