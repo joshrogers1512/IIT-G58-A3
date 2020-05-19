@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## A2 Group 58 - Assignment 3
 
-You can use the [editor on GitHub](https://github.com/joshrogers1512/IIT-G58-A3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Project Idea
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Topic
+Our team intends to investigate the project scope of establishing a virtual and augmented events company targeting disabled persons that cannot attend a particular function due to their disability.
+
+The outcomes of this project would be to provide our team with an understanding of the technologies and tools required to establish such an organisation and gain an understanding of what current products are available in the marketplace.
+
+Motivation 
+VR a AR are two of the leading technologies currently underdevelopment in our modern world. Gaining an insight into this is motivating for all our team members as we can bolster our knowledge of current trends, tools and technologies. The project shows that we are not afraid to step into the unknown and cutting edge technologies.
+
+We are also focusing our project towards assisting those with disabilities to bridge the gap in specific experiences that they cannot have compared to an abled body person.
+
+Landscape
+Researching we have found that there are some VR events companies are available in industries such as arts and sport but none specifically enabling the disabled to attend and interact at events. We have identified this as an area of weakness within the AR/VR Live Events field, and believe its a potential area that can benefit society and better individuals lives.
+
+
 
 ### Markdown
 
